@@ -1,0 +1,4 @@
+default:
+  sleeper_draft_metadata: "https://api.sleeper.app/v1/draft/{draft_id}"
+  sleeper_draft_selections: "https://api.sleeper.app/v1/draft/{draft_id}/picks"
+  sleeper_league_identifiers: "https://api.sleeper.app/v1/league/{league_id}"
